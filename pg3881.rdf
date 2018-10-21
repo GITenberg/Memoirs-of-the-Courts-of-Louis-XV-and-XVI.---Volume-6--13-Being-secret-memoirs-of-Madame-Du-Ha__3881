@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <pgterms:ebook rdf:about="ebooks/3881">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/3881/3881.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74362</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-12-03T18:24:40</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N375aa11ed7da45adb2f1f83cf2bf258d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8ab2f9aa0f274067823bfad69442312b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N366dcacdf45f424abd5ee901781bb135">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3881.rdf">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6b8e72de39a64a7d99f1c4658e08c9bd">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11798</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:02:51.184401</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</pgterms:downloads>
+    <dcterms:title>Memoirs of the Courts of Louis XV and XVI. — Volume 6&#13;
+Being secret memoirs of Madame Du Hausset, lady's maid to Madame de Pompadour, and of the Princess Lamballe</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3881.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7e76dfa4979343b78da3b09c7708fce6">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:50:18.095628</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354680</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/33799">
+        <pgterms:name>Lamballe, Marie Thérèse Louise de Savoie-Carignan, princesse de</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1749</pgterms:birthdate>
+        <pgterms:alias>Lamballe, Marie Therese Louise de Savoie-Carignan, princesse de</pgterms:alias>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1792</pgterms:deathdate>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/3881/3881.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198951</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-12-03T18:22:48</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9de8592f24a2457eb659b13b635f0bde">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3881.html.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:50:17.227643</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0fd6b4701cce4f6e96ee23c8baeba2dd">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213058</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3881.epub.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:50:17.392673</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84003</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ned161dd208774d7fa4857a3d937d55e4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3881.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354663</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:50:18.801614</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N39ccc933c97440248363b6590959818b">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3881.html.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:50:17.183662</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213058</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N93215694bb5949e2968b12827edc1af3">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-12-03</dcterms:issued>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N94aba4ff5bf14d27b851bf4012d516cc">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>France -- Court and courtiers</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N399e51165f684e18a982e95cfff34e09">
+        <rdf:value>Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N54cc98a2124840e7b4f500edc4332126">
+        <rdf:value>DC</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/1333">
+        <pgterms:name>Du Hausset, Mme.</pgterms:name>
+        <pgterms:alias>Du Hausset, Madame</pgterms:alias>
+        <pgterms:alias>Hausset, Mme. Du</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3881.epub.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84004</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:50:17.327642</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N88d7efab1cf94dd1af252d0ce3363ab5">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N82315094a2a547619d4a6107f8ac6704">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Pompadour, Jeanne Antoinette Poisson, marquise de, 1721-1764</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nba3e878417ea4d53a9f53b7c289d7b81">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3881.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/3881"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:50:17.001669</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198923</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9647d4801a4b448ca8334a634383c70e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+</rdf:RDF>
